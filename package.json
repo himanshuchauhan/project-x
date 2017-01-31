@@ -1,0 +1,27 @@
+{
+  "name": "Project-X",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://himanshuchauhan.github.io/project-x",
+  "devDependencies": {
+    "react-scripts": "0.8.5"
+  },
+  "dependencies": {
+    "gh-pages": "^0.12.0",
+    "google-map-react": "^0.22.3",
+    "rc-slider": "^6.0.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-icons": "^2.2.3",
+    "recharts": "^0.20.5",
+    "styled-components": "^1.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
