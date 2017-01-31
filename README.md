@@ -2,7 +2,7 @@
 ## React-Dashboard-Ui
 [Click here for LIVE DEMO](https://himanshuchauhan.github.io/project-x/)
 
-![Demo](https://github.com/himanshuchauhan/project-x/demo.png)
+![Demo](https://github.com/himanshuchauhan/project-x/blob/master/demo.png)
 
 This project was created with [Create React App](https://github.com/facebookincubator/create-react-app).
 
