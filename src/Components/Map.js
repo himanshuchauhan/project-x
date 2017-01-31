@@ -44,6 +44,9 @@ export default class Map extends Component {
     return (
       <MapWrapper>
         <GoogleMap
+          bootstrapURLKeys={{
+            key: 'AIzaSyBst2TiLnLqmb2hSNNXPZMw2ceSA1s6ca0',
+          }}
           center={this.state.center}
           zoom={11}
         >
